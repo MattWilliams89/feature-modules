@@ -8,7 +8,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FeaturePlayground"
 include ':app'
-include ':launchpad'
-include ':featureA'
-include ':featureB'
+include ':main'
+include ':search-feature'
 include ':bootstrapping'
+include ':beef-client'
+include ':vehicledetails-feature'
