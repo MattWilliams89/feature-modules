@@ -1,5 +1,5 @@
 package org.maw.bootstrapping
 
-object ViewModelCoordinator {
+object FeatureCoordinator {
     lateinit var featureFactory: FeatureFactory
 }
